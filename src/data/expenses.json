@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Beli Sepatu Futsal",
+    "date": "2024-01-01",
+    "amount": 200000,
+    "category": "Hobby",
+    "details": "Beli sepatu untuk fun futsal di Sports Station."
+  },
+  {
+    "id": 2,
+    "title": "Beli Figure PVC",
+    "date": "2024-01-01",
+    "amount": 700000,
+    "category": "Hobby",
+    "details": "Beli figur Ganyu Genshin Impact."
+  },
+  {
+    "id": 3,
+    "title": "Bayar Uang Sekolah Anak",
+    "date": "2024-01-05",
+    "amount": 1500000,
+    "category": "Education",
+    "details": "Bayar uang sekolah SMA si Justin."
+  },
+  {
+    "id": 4,
+    "title": "Bayar Tagihan Internet",
+    "date": "2024-01-08",
+    "amount": 550000,
+    "category": "Expenses",
+    "details": "Bayar tagihan Indihome Bulan lalu."
+  },
+  {
+    "id": 5,
+    "title": "Bayar Listrik",
+    "date": "2024-01-12",
+    "amount": 400000,
+    "category": "Expenses",
+    "details": "Bayar tagihan Listrik bulan ini."
+  },
+  {
+    "id": 6,
+    "title": "Beli Joystick Baru",
+    "date": "2024-01-15",
+    "amount": 200000,
+    "category": "Hobby",
+    "details": "Beli joystick pc di Enterkomputer."
+  },
+  {
+    "id": 7,
+    "title": "Bayar Uang Study Tour",
+    "date": "2024-01-20",
+    "amount": 200000,
+    "category": "Education",
+    "details": "Bayar cicilan Study Tour si Justin"
+  },
+  {
+    "id": 8,
+    "title": "Bayar Uang Keamanan dan Tukang Sampah",
+    "date": "2024-01-25",
+    "amount": 100000,
+    "category": "Expenses",
+    "details": "Bayar uang keamanan dan tukang sampah komplek."
+  },
+  {
+    "id": 9,
+    "title": "Ke Rumah Sakit",
+    "date": "2024-01-26",
+    "amount": 800000,
+    "category": "Health",
+    "details": "Berobat istri kakinya kesemutan."
+  }
+]
