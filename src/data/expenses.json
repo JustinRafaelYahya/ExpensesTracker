@@ -1,74 +1,146 @@
 [
   {
     "id": 1,
-    "title": "Beli Sepatu Futsal",
+    "title": "Terima Gaji Bulanan Des 2023",
     "date": "2024-01-01",
-    "amount": 200000,
-    "category": "Hobby",
-    "details": "Beli sepatu untuk fun futsal di Sports Station."
+    "type": "income",
+    "category": "Salary",
+    "amount": 7000000,
+    "details": "Gaji kantor masuk ke rekening untuk periode Desember 2023."
   },
   {
     "id": 2,
-    "title": "Beli Figure PVC",
+    "title": "Beli Sepatu Futsal",
     "date": "2024-01-01",
-    "amount": 700000,
+    "type": "expense",
     "category": "Hobby",
-    "details": "Beli figur Ganyu Genshin Impact."
+    "amount": 200000,
+    "details": "Beli sepatu untuk fun futsal di Sports Station."
   },
   {
     "id": 3,
-    "title": "Bayar Uang Sekolah Anak",
-    "date": "2024-01-05",
-    "amount": 1500000,
-    "category": "Education",
-    "details": "Bayar uang sekolah SMA si Justin."
+    "title": "Beli Figure PVC",
+    "date": "2024-01-01",
+    "type": "expense",
+    "category": "Hobby",
+    "amount": 700000,
+    "details": "Beli figur Ganyu Genshin Impact."
   },
   {
     "id": 4,
-    "title": "Bayar Tagihan Internet",
-    "date": "2024-01-08",
-    "amount": 550000,
-    "category": "Expenses",
-    "details": "Bayar tagihan Indihome Bulan lalu."
+    "title": "Makan Week 1",
+    "date": "2024-01-05",
+    "type": "expense",
+    "category": "Food",
+    "amount": 700000,
+    "details": "Total expense makan di kantor dan uang istri beli sayur, week 1 Januari."
   },
   {
     "id": 5,
-    "title": "Bayar Listrik",
-    "date": "2024-01-12",
-    "amount": 400000,
-    "category": "Expenses",
-    "details": "Bayar tagihan Listrik bulan ini."
+    "title": "Makan-Makan Weekend",
+    "date": "2024-01-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 300000,
+    "details": "Makan-makan keluarga di Ramen AEON."
   },
   {
     "id": 6,
-    "title": "Beli Joystick Baru",
-    "date": "2024-01-15",
-    "amount": 200000,
-    "category": "Hobby",
-    "details": "Beli joystick pc di Enterkomputer."
+    "title": "Isi Bensin 1",
+    "date": "2024-01-10",
+    "type": "expense",
+    "category": "Transportation",
+    "amount": 150000,
+    "details": "Isi bensin di Shell pertama bulan Januari."
   },
   {
     "id": 7,
-    "title": "Bayar Uang Study Tour",
-    "date": "2024-01-20",
-    "amount": 200000,
-    "category": "Education",
-    "details": "Bayar cicilan Study Tour si Justin"
+    "title": "Makan Week 2",
+    "date": "2024-01-12",
+    "type": "expense",
+    "category": "Food",
+    "amount": 600000,
+    "details": "Total expense makan di kantor dan uang istri beli sayur, week 2 Januari."
   },
   {
     "id": 8,
-    "title": "Bayar Uang Keamanan dan Tukang Sampah",
-    "date": "2024-01-25",
-    "amount": 100000,
-    "category": "Expenses",
-    "details": "Bayar uang keamanan dan tukang sampah komplek."
+    "title": "Beli Joystick Baru",
+    "date": "2024-01-13",
+    "type": "expense",
+    "category": "Hobby",
+    "amount": 200000,
+    "details": "Beli joystick pc di Enterkomputer."
   },
   {
     "id": 9,
-    "title": "Ke Rumah Sakit",
-    "date": "2024-01-26",
+    "title": "Sewa Grab",
+    "date": "2024-01-14",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 85000,
+    "details": "Ongkos grab untuk anak pergi dan pulang dari ICE BSD."
+  },
+  {
+    "id": 10,
+    "title": "Isi Bensin 2",
+    "date": "2024-01-18",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 150000,
+    "details": "Isi bensin di Shell kedua bulan Januari."
+  },
+  {
+    "id": 11,
+    "title": "Makan Week 3",
+    "date": "2024-01-20",
+    "type": "expense",
+    "category": "Food",
     "amount": 800000,
-    "category": "Health",
-    "details": "Berobat istri kakinya kesemutan."
+    "details": "Total expense makan di kantor dan uang istri beli sayur, week 3 Januari."
+  },
+  {
+    "id": 12,
+    "title": "Isi Bensin 3",
+    "date": "2024-01-24",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 100000,
+    "details": "Isi bensin di Shell ketiga bulan Januari."
+  },
+  {
+    "id": 13,
+    "title": "Makan-Makan Weekend Edisi 2",
+    "date": "2024-01-27",
+    "type": "expense",
+    "category": "Food",
+    "amount": 300000,
+    "details": "Makan bareng keluarga di restoran Ta-Wan."
+  },
+  {
+    "id": 14,
+    "title": "Terima Bonus Performa",
+    "date": "2024-01-27",
+    "type": "income",
+    "category": "Bonus",
+    "amount": 1000000,
+    "details": "Bonus performa dari kantor bulan Januari."
+  },
+  {
+    "id": 15,
+    "title": "Makan Week 4",
+    "date": "2024-01-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 700000,
+    "details": "Total expense makan di kantor dan uang istri beli sayur, week 4 Januari."
+  },
+  {
+    "id": 16,
+    "title": "Terima Gaji Bulanan Jan 2024",
+    "date": "2024-01-29",
+    "type": "income",
+    "category": "Salary",
+    "amount": 7000000,
+    "details": "Gaji kantor masuk ke rekening untuk periode Januari 2024."
   }
 ]

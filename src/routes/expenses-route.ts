@@ -1,9 +1,8 @@
 import Express from "express";
 
 import {
-  getAllExpenses,
-  getSingleExpense,
-  getSingleExpenseDetail,
+  getAllExpensesList,
+  getExpenseDetails,
   createExpense,
   updateExpense,
   deleteExpense,
@@ -13,14 +12,13 @@ import {
 
 const router = Express.Router();
 
-router.route("/").get(getAllExpenses).post(createExpense);
+router.route("/").get(getAllExpensesList).post(createExpense);
 router
   .route("/:id")
-  .get(getSingleExpense)
+  .get(getExpenseDetails)
   .put(updateExpense)
   .delete(deleteExpense);
-router.route("/:id/detail").get(getSingleExpenseDetail);
-router.route("/type/:category").get(getExpenseByCategory);
-router.route("/total/date").get(getExpenseByDate);
+router.route("/totalcategory/:category").get(getExpenseByCategory);
+router.route("/totaldate/date").get(getExpenseByDate);
 
 export default router;
